@@ -1,3 +1,6 @@
+#Entrega Ki Hyon Lee
+#PD: este código fue desarrollado junto con Juan Sebastián Caro
+
 import numpy as np
 #insertar caracteristicas y etiquetas del ejemplo resistencia
 caracteristicas = np.array([1,1.5,2,2.5,3,3.5,4,4.5,5,5.5,6])
